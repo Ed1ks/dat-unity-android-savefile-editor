@@ -4,8 +4,6 @@ Edit Savefile of Android Apps
 
 ## Installation
 
-Install my-project with npm
-
 Requires Python 3 and [msgpack-python](https://github.com/msgpack/msgpack-python)
 
 ```bash

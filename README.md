@@ -17,7 +17,7 @@ Requires Python 3 and [msgpack-python](https://github.com/msgpack/msgpack-python
 4. open edit.json with Notepad++
 5. change values as you want and save
 6. press any key in bash
-7. copy output back to android and replace the old savefile
+7. copy output.dat back to android and replace the old savefile
 
 
 ## Tested and Works
